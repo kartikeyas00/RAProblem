@@ -1,4 +1,4 @@
-# Resident Assistants' matching with the job of their choice
+# Resident Assistants' matching with the job of their choice using gale shapley algorithm!
 This project focuses on finding the stable matching for two asymmetric arrays which in this case are the group of students 
 applying for the Resident Assistant jobs and the number of Resdient Assistant jobs. Here every Resident Assistant Jobs has 
 a floor assigned to it. For example Resident Assistant Job1 is for FLoor1.
