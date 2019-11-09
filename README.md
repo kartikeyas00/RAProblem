@@ -16,10 +16,10 @@ NoJob | M | S | J | E |
 
 CANDIDATES | #1 | #2 | #3 | #4 | #5|
 --- | --- | --- | --- |--- |--- |
-J | Job2 | Job1 | Job3 | Job4 | Nojob
-E | Job1 | Job2| Job4 | Job3 | Nojob
-S | Job3| Job1 | Job2 | Job4 | Nojob
-M | Job4 | Job3 | Job2 | Job1 | Nojob
+J | Job2 | Job1 | Job3 | Job4 | No Job
+E | Job1 | Job2| Job4 | Job3 | No Job
+S | Job3| Job1 | Job2 | Job4 | No Job
+M | Job4 | Job3 | Job2 | Job1 | No Job
 
 After obtaining the optimal matching, sensitivity analysis has also been performed to check the optimal matching on different preference orders. Different preference orders had been obtained by iterating the first element through the last element by swiping the first element with the next position and moving it towards the last. Here element is a Job or a candidate in a preference order. Total number of preference order combination obtained were 121,500,000. Number of different matchings obtained for all the different preference order combinations are 58.
 
